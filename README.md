@@ -7,6 +7,7 @@ Total Sellers: 3,095
 Product Categories: 71
 Total Price of Orders: $13.59M
 Total Payments Received: $16.01M
+
 📊 Data Breakdown:
 Payment Trends:
 Weekday vs. Weekend: 77.26% of payments occur on weekdays.
@@ -17,6 +18,7 @@ Other key cities: Rio de Janeiro, Belo Horizonte, Brasília, Curitiba.
 Shipping & Review Analysis:
 Average shipping time varies by review score.
 Pet shops take ~11 days on average for delivery.
+
 ⚙️ Tools Used
 Power BI – Data visualization
 Excel – Data cleaning
